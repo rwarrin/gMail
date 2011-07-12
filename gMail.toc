@@ -1,0 +1,7 @@
+## Interface: 40200
+## Author: g0st
+## Title: gMail
+## Notes: Quickly opens all mail
+## Version: 0.1
+
+core.lua
