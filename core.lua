@@ -1,5 +1,5 @@
-local button = CreateFrame("Button" "gMailButton", InboxFrame);
-button:SetPoint("BOTTOM", InboxFrame, "BOTTOM", 0, 10);
+local button = CreateFrame("Button", "gMailButton", InboxFrame, "UIPanelButtonTemplate");
+button:SetPoint("BOTTOM", InboxFrame, "BOTTOM", -10, 85);
 button:SetWidth(128);
 button:SetHeight(24);
 
