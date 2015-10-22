@@ -1,4 +1,4 @@
-## Interface: 40300
+## Interface: 60200
 ## Author: g0st
 ## Title: gMail
 ## Notes: Quickly opens all mail
